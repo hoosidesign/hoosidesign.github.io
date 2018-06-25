@@ -17,23 +17,25 @@
 
   <body>
     
-    
- 
-      
-      
-<header ID="home" class="header">
-  <a href="href="{{ site.baseurl }}/"" class="logo"><IMG SRC="images/logo.svg">Hoosi</a>
-  <input class="menu-btn" type="checkbox" id="menu-btn" />
-  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
-  <ul class="menu">
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
-    <li><a href="{{ site.baseurl }}/#services">Services</a></li>
-    <li><a href="{{ site.baseurl }}/#work">Our Work</a></li>
-    <li><a href="{{ site.baseurl }}/about/">About</a></li>
-    <li><a href="{{ site.baseurl }}/about/">Blog</a></li>
-    <li><a href="{{ site.baseurl }}//#quoteForm">Free Quote</a></li>
-  </ul>
-</header>     
+    AAA
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav>
+            <a href="{{ site.baseurl }}">Home</a>
+            <a href="{{ site.baseurl }}/blog">Blog</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
 
     <div id="main" role="main" class="container">
       {{ content }}
