@@ -21,7 +21,7 @@ img {max-width: 100%;}
 #footer {background:#0EB4FF; text-align: center; font-weight: bold; position: fixed; bottom: 0px; left:0px; right:0px;padding: 5px;}
 #footer > a {color:#fff;text-decoration: none; letter-spacing: 1px;}
 #footer > a > span {display: none;}
-.button {border-radius: 500px; text-decoration: none; background:#0EB4FF; color:#fff; display: inline; height: 40px; padding: 10px; 
+.button {border-radius: 500px; text-decoration: none; background:#0EB4FF; color:#fff; display: inline; height: 40px; padding: 10px 20px; 
     box-sizing: border-box; left:auto; text-align: center; margin: 20px auto 0px;}
 .button:hover {background:#006FEF;transition: all .2s ease-out; }
 .header {
