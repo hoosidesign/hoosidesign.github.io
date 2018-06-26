@@ -1,4 +1,4 @@
-body {margin: 0px;padding: 0px;font-size: 16px;font-family: 'Montserrat', sans-serif;}
+body {background:#f1f1f1;margin: 0px;padding: 0px;font-size: 16px;font-family: 'Montserrat', sans-serif;}
 a {color:#25B5FC; text-decoration: none;}
 .post {padding:20px; max-width: 800px; margin:auto;}
 .mobileHide {display: none;}
@@ -7,7 +7,7 @@ a {color:#25B5FC; text-decoration: none;}
 .subTitle{font-size: 20px;color:#ccc;padding: 0px 0px 0px 0px; margin: 0px 0px 20px 0px;}
 .subTitleAlt{font-size: 24px;color:#999; text-align: center; padding: 0px 0px 0px 0px; margin: 0px 0px 20px 0px;}
 img {max-width: 100%;}
-.oddRow {background:#eee;}
+.oddRow {background:#fff;}
 #quoteForm {width: 100%;height: 520px;}
 #work {margin: auto; text-align: center;}
 #services {font-size: 18px;padding: 0px 0px 50px;}
