@@ -11,7 +11,7 @@ Often the barrier to entry in starting a new business is creating a mobile frien
 
 \$130 to get you on your way to starting a new business and being your own boss.
 
-Pay for the full year ($360.) and we'll wave the design fee.
+**Pay for the full year ($360.) and we'll wave the design fee.**
 
 That is only a dollar a day to get your business started.
 
