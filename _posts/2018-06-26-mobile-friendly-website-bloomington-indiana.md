@@ -1,7 +1,7 @@
 ---
+layout: 'post'
 title: Mobile Friendly Website Design Bloomington Indiana
 date: 2018-06-26 00:00:00 +0000
-layout: ''
 ---
 **Having a mobile friendly website is key for any modern business looking to compete.**
 
