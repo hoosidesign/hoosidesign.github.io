@@ -22,7 +22,7 @@ img {max-width: 100%;}
 #footer > a {color:#fff;text-decoration: none; letter-spacing: 1px;}
 #footer > a > span {display: none;}
 .button {border-radius: 500px; text-decoration: none; background:#0EB4FF; color:#fff; display: inline; height: 40px; padding: 10px 20px; 
-    box-sizing: border-box; left:auto; text-align: center; margin: 20px auto 0px;}
+    box-sizing: border-box; left:auto; text-align: center; margin: 20px auto 0px; transition: all .2s ease-out;}
 .button:hover {background:#006FEF;transition: all .2s ease-out; }
 .topPad {padding-top:30px;}
 .center {text-align: center;}
@@ -52,7 +52,7 @@ img {max-width: 100%;}
   transition: all .2s ease-out;
 }
 
-.menu > li > a:hover {border-bottom:2px solid rgba(255, 255, 255, .5);}
+.menu > li > a:hover {background:rgba(0, 0, 0, .5); transition: all .2s ease-out;}
 
 .logo {
   display: block;
