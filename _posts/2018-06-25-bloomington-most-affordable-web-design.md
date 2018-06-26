@@ -13,7 +13,7 @@ Often the barrier to entry in starting a new business is creating a mobile frien
 
 **Pay for the full year ($360.) and we'll wave the design fee.**
 
-That is only a dollar a day to get your business started.
+That is less than a dollar a day to get your business started.
 
 Already have an existing site? Is it mobile friendly? Does it look good and load fast? Are you getting customers from it?
 
