@@ -36,7 +36,6 @@ img {max-width: 100%;}
 .header.scrolled {
     background-color:rgba(198, 30, 33, 0.9); transition: all .2s ease-out;
 }
-
 .menu {
   margin: 0;
   padding: 0;
