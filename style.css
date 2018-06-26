@@ -21,7 +21,7 @@ img {max-width: 100%;}
 #footer {background:#0EB4FF; text-align: center; font-weight: bold; position: fixed; bottom: 0px; left:0px; right:0px;padding: 5px;}
 #footer > a {color:#fff;text-decoration: none; letter-spacing: 1px;}
 #footer > a > span {display: none;}
-
+.button {display: inline; height: 40px; padding: 10px; box-sizing: border-box; left:auto; text-align: center; margin: auto;}
 .header {
   position: fixed;
   top:0px;
