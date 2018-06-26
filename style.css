@@ -22,7 +22,7 @@ img {max-width: 100%;}
 #footer:hover {background:#006FEF;transition: all .2s ease-out; }
 #footer {transition: all .2s ease-out;background:#0EB4FF; text-align: center; color:#fff;text-decoration: none; letter-spacing: 1px; font-weight: bold; position: fixed; bottom: 0px; left:0px; right:0px;padding: 5px;}
 #footer > a > span {display: none;}
-.button {border-radius: 500px; text-decoration: none; background:#0EB4FF; color:#fff; display: inline; height: 40px; padding: 10px 20px; box-sizing: border-box; left:auto; text-align: center; margin: 20px auto 0px; transition: all .2s ease-out;}
+.button {text-decoration: none; border-radius: 500px; text-decoration: none; background:#0EB4FF; color:#fff; display: inline; height: 40px; padding: 10px 20px; box-sizing: border-box; left:auto; text-align: center; margin: 20px auto 0px; transition: all .2s ease-out;}
 .button:hover {color:#fff;background:#006FEF;transition: all .2s ease-out; }
 .topPad {padding-top:30px;}
 .center {text-align: center;}
