@@ -11,19 +11,20 @@ Your customers expect your website to be mobile friendly and so does Google.
 
 Wondering if your website is mobile friendly? Google has a free tool to check: [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly "https://search.google.com/test/mobile-friendly")
 
-Enter your website address and look for two things.
+Enter your website address and look for **three** things.
 
-1. **No loading issues**
+**No loading issues**
 
 ![](/uploads/1.png)
 
-2. "Page is mobile-friendly" in green and "Thus page is easy to use on a mobile device" 
+**"Page is mobile-friendly" in green and "Thus page is easy to use on a mobile device"**
 
-   ![/uploads/2.png](https://app.forestry.io/sites/dyj3-skqf7gt-w/body-media//uploads/2.png)
-3. You will also see a preview of how your site looks on a mobile phone -
+![/uploads/2.png](https://app.forestry.io/sites/dyj3-skqf7gt-w/body-media//uploads/2.png)
 
-![google provides a mobile preview of your website](/uploads/3.png "google provides a mobile preview of your website")  
-  
+**How your site looks on a mobile phone** 
+
+![google provides a mobile preview of your website](/uploads/3.png "google provides a mobile preview of your website")
+
 **Things to look out for -**
 
 * Does your design and content fit on the screen without being shrunk?
