@@ -21,9 +21,9 @@ Enter your website address and look for **three** things.
 
 ![/uploads/2.png](https://app.forestry.io/sites/dyj3-skqf7gt-w/body-media//uploads/2.png)
 
-**How your site looks on a mobile phone** 
+**How your site looks on a mobile phone**
 
-![google provides a mobile preview of your website](/uploads/3.png "google provides a mobile preview of your website")
+![](/uploads/mobile2.jpg)
 
 **Things to look out for -**
 
