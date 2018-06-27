@@ -17,7 +17,7 @@ Enter your website address and look for **three** things.
 
 ![](/uploads/1.png)
 
-**"Page is mobile-friendly" in green and "Thus page is easy to use on a mobile device"**
+**"Page is mobile-friendly" in green and "This page is easy to use on a mobile device"**
 
 ![/uploads/2.png](https://app.forestry.io/sites/dyj3-skqf7gt-w/body-media//uploads/2.png)
 
