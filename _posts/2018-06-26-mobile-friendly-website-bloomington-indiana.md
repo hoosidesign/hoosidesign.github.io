@@ -5,6 +5,7 @@ date: 2018-06-26 00:00:00 +0000
 ---
 ![](/uploads/2.png)
 
+
 **Having a mobile friendly website is key for any modern business looking to compete.**
 
 Your customers expect your website to be mobile friendly and so does Google.
@@ -13,17 +14,21 @@ Wondering if your website is mobile friendly? Google has a free tool to check: [
 
 Enter your website address and look for **three** things.
 
+
 **No loading issues**
 
 ![](/uploads/1.png)
 
+
 **"Page is mobile-friendly" in green and "This page is easy to use on a mobile device"**
 
-![/uploads/2.png](https://app.forestry.io/sites/dyj3-skqf7gt-w/body-media//uploads/2.png)
+![](/uploads/2.png)
+
 
 **How your site looks on a mobile phone**
 
 ![](/uploads/mobile2.jpg)
+
 
 **Things to look out for -**
 
