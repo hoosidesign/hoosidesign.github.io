@@ -14,3 +14,7 @@ Facebook page
 Facebook pixel, creating an audience  (from past traffic)
 
 Upwork for Virtual Assistants
+
+Product pages need work. spelling errors!!?
+
+Do I need a blog?
