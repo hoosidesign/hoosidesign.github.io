@@ -13,8 +13,12 @@ Facebook page
 
 Facebook pixel, creating an audience  (from past traffic)
 
-Upwork for Virtual Assistants
+Upwork/ fiverr for Virtual Assistants
 
 Product pages need work. spelling errors!!?
 
 Do I need a blog?
+
+feedback from community
+
+celebrity stylist like
